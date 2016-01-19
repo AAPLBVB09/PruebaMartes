@@ -16,7 +16,7 @@ public class PRUEBAGITMARTES {
      */
     public static void main(String[] args) {
         
-        System.out.PrintIn("debemos poder")
+        System.out.println("debemos poder");
         // TODO code application logic here
     }
     
