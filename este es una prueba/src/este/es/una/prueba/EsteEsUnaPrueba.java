@@ -17,6 +17,9 @@ public class EsteEsUnaPrueba {
     public static void main(String[] args) {
         
         System.out.println("abel");
+        System.out.println("abel");
+        System.out.println("abel");
+        System.out.println("abel");
         // TODO code application logic here
     }
     
